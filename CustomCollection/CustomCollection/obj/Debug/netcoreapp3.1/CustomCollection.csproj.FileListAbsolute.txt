@@ -1,0 +1,14 @@
+D:\C#\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.exe
+D:\C#\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.deps.json
+D:\C#\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.runtimeconfig.json
+D:\C#\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.runtimeconfig.dev.json
+D:\C#\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.dll
+D:\C#\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.pdb
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.csproj.AssemblyReference.cache
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.AssemblyInfoInputs.cache
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.AssemblyInfo.cs
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.csproj.CoreCompileInputs.cache
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.dll
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.pdb
+D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.genruntimeconfig.cache
