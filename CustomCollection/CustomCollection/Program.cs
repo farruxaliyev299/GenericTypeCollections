@@ -31,11 +31,11 @@ namespace CustomCollection
             LangList.AddLang(JS);
 
 
-            LangList.NameSort();
-            //LangList.DateSort();
+            //LangList.NameSort();
+            LangList.DateSort();
 
 
-            foreach(PrLanguages lang in LangList.Languages)
+            foreach (PrLanguages lang in LangList.Languages)
             {
                 Console.WriteLine($"{lang.Name}\n{lang.ReleaseDate}\n");
             }

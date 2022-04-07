@@ -12,3 +12,17 @@ D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection
 D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.dll
 D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.pdb
 D:\C#\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.dll
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.pdb
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.exe
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.deps.json
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.dll
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\bin\Debug\netcoreapp3.1\CustomCollection.pdb
+C:\Users\DELL\Desktop\Code Academy\Generic.Collections\CustomCollection\CustomCollection\obj\Debug\netcoreapp3.1\CustomCollection.genruntimeconfig.cache

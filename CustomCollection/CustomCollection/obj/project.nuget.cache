@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TiA2vwaeWPREhqJ+3p8ycy33SrlG42oN+UFDzw7z6nDn0EuKRazb72UV0Rq7Wy5s5c0vUrs67Nag86bZQetBBQ==",
+  "dgSpecHash": "sVlrebJyjU6Xwf6U0lyFEqL5ZDklE6SJZ/wtWHQVbZpwdKuM1pm2wqvBAc3o/ZWq3RkH6ctonPdCs8fKEzmk3Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\CustomCollection\\CustomCollection\\CustomCollection.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Code Academy\\Generic.Collections\\CustomCollection\\CustomCollection\\CustomCollection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

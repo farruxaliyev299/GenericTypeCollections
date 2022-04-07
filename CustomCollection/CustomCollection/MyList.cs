@@ -19,16 +19,16 @@ namespace CustomCollection
 
         public void DateSort()
         {
-            DateTime temp = new DateTime();
+            PrLanguages temp = new PrLanguages(null, new DateTime());
             for (int i = 0; i < Languages.Length; i++)
             {
                 for (int j = i + 1; j < Languages.Length; j++)
                 {
                     if (Languages[j].ReleaseDate < Languages[i].ReleaseDate)
                     {
-                        temp = Languages[i].ReleaseDate;
-                        Languages[i].ReleaseDate = Languages[j].ReleaseDate;
-                        Languages[j].ReleaseDate = temp;
+                        temp = Languages[i];
+                        Languages[i] = Languages[j];
+                        Languages[j] = (T)temp;
                     }
                 }
             }

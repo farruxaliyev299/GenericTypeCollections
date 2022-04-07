@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\CustomCollection\\CustomCollection\\CustomCollection.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Code Academy\\Generic.Collections\\CustomCollection\\CustomCollection\\CustomCollection.csproj",
       "projectName": "CustomCollection",
-      "projectPath": "D:\\C#\\CustomCollection\\CustomCollection\\CustomCollection.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\Code Academy\\Generic.Collections\\CustomCollection\\CustomCollection\\CustomCollection.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CustomCollection\\CustomCollection\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\Code Academy\\Generic.Collections\\CustomCollection\\CustomCollection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
